@@ -1,0 +1,22 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "Creación de modelos, servicios y vistas",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgeboris/twitter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgeboris/twitter/issues"
+  },
+  "homepage": "https://github.com/jorgeboris/twitter#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
