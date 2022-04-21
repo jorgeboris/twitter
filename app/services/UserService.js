@@ -9,6 +9,9 @@ class UserService {
         return Object.values(user)
     }
 
+    static updateUserUsername(user, username){
+        user.setUsername = username
+    }
 }
 
 module.exports = UserService
